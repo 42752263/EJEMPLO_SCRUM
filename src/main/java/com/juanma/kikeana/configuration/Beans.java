@@ -20,7 +20,7 @@ public class Beans {
         return new Employee();
     }
 
-    @Bean
+    @Beanhh
     public Transaction transaction() {
         return new Transaction();
     }
